@@ -8,12 +8,10 @@ simple website where user can select custom sandwich and view its nutrition valu
 **Target Audience:** Health-conscious fast-food consumers, gym-goers, individuals tracking macros/sodium intake in Malaysia and Singapore.  
 
 # User Architecture & Flow
-[Menu Selection] 
-        │
-        ▼
-[Interactive Top-Down Visual Canvas] (Select: Bread -> Protein -> Veggies -> Sauces)
-        │
-        ▼
+[Menu Selection]  
+        ▼  
+[Interactive Top-Down Visual Canvas] (Select: Bread -> Protein -> Veggies -> Sauces)  
+        ▼  
 [Live Dynamic Macro Dashboard] (Real-time recalculation of Calories, Sodium, Sugar, Fats)
 
 # Data Source
