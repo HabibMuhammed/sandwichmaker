@@ -9,10 +9,8 @@ simple website where user can select custom sandwich and view its nutrition valu
 
 # User Architecture & Flow
 [Menu Selection]  
-        ▼  
 [Interactive Top-Down Visual Canvas] (Select: Bread -> Protein -> Veggies -> Sauces)  
-        ▼  
-[Live Dynamic Macro Dashboard] (Real-time recalculation of Calories, Sodium, Sugar, Fats)
+[Live Dynamic Macro Dashboard] (Real-time recalculation of Calories, Sodium, Sugar, Fats)  
 
 # Data Source
 [2022 Singapore Subway Nutrition Guide](https://subwayisfresh.com.sg/wp-content/uploads/2022/02/Singapore-Nutrition-Information-Webguide-Feb-2022.pdf)
