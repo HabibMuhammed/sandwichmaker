@@ -3,9 +3,9 @@ simple website where user can select custom sandwich and view its nutrition valu
 
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/d76ecc90-72dd-4885-aa6a-060dedd57017" />
 
-**Project Name:** Subway MY/SG Interactive Nutrition Planner
-**Target Platforms:** Desktop Web & Mobile Web (Responsive)
-**Target Audience:** Health-conscious fast-food consumers, gym-goers, individuals tracking macros/sodium intake in Malaysia and Singapore.
+**Project Name:** Subway MY/SG Interactive Nutrition Planner  
+**Target Platforms:** Desktop Web & Mobile Web (Responsive)  
+**Target Audience:** Health-conscious fast-food consumers, gym-goers, individuals tracking macros/sodium intake in Malaysia and Singapore.  
 
 # User Architecture & Flow
 [Menu Selection] 
